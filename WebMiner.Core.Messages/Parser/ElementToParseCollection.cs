@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WebMiner.Core.Messages
+namespace WebMiner.Core.Messages.Parser
 {
-    public class Class1
+    public class ElementToParseCollection : List<ElementToParse>
     {
+
     }
 }
