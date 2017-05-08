@@ -57,6 +57,7 @@
     <Compile Include="Downloader\TorDownloaderActor.cs" />
     <Compile Include="Parser\XPathParserActor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test\TestActor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
